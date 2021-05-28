@@ -1,0 +1,23 @@
+body {
+  width: 800px;
+  margin: 0 auto;
+}
+
+h1, h2, h3 {
+  text-align: center;
+}
+
+fieldset {
+  border: 1px solid black;
+}
+
+button {
+  margin-top: 1em;
+}
+
+fieldset legend {
+  background: #000;
+  color: #fff;
+  font: 1.2em 'Arial', sans-serif;
+  padding: 0 0.4em;
+}
